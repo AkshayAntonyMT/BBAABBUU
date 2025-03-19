@@ -6,7 +6,7 @@ BluetoothSerial serialBT;
 char btSignal;
 
 //initial Speed
-int Speed = 100;
+int Speed = 150;
 
 //declare channel for pwm Output
 #define R 0
